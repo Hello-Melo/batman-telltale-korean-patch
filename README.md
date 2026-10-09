@@ -6,7 +6,7 @@
 ## 배포 상태
 
 **v1.0 배포 중입니다.**
-패치 파일은 [Releases](https://github.com/Hello-Melo/batman-telltale-korean-patch/releases)에서 다운로드할 수 있습니다.
+패치 파일은 [v1.0 다운로드](https://github.com/Hello-Melo/batman-telltale-korean-patch/releases/download/v1.0/Batman-Telltale-Korean-Patch-v1.0.zip)에서 받을 수 있습니다.
 
 ## 주요 수정 내용
 
