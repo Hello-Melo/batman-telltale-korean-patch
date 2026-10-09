@@ -33,6 +33,12 @@
 - **기존 번역·패치:** 팀 왈도 M 지부 · 블루넷
 - **번역 검수·미번역 보완·자막 및 UI 수정:** Melo
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/melo-lockup-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/melo-lockup-black.png">
+  <img src="assets/melo-lockup-black.png" alt="Melo 시그니처" width="120">
+</picture>
+
 ## 남김말
 
 직접 플레이하며 검토했지만, 모든 선택 경로와 경우의 수를 테스트하지는 못했습니다. 미번역·오역이나 버그가 남아 있을 수 있습니다.
