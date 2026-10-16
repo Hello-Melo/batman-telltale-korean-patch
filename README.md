@@ -5,8 +5,12 @@
 
 ## 배포 상태
 
-**v1.0 배포 중입니다.**
-패치 파일은 [v1.0 다운로드](https://github.com/Hello-Melo/batman-telltale-korean-patch/releases/download/v1.0/Batman-Telltale-Korean-Patch-v1.0.zip)에서 받을 수 있습니다.
+**v1.1 배포 중입니다.**
+패치 파일은 [v1.1 다운로드](https://github.com/Hello-Melo/batman-telltale-korean-patch/releases/download/v1.1/Batman-Telltale-Korean-Patch-v1.1.zip)에서 받을 수 있습니다.
+
+## v1.1 수정 사항
+
+시작 시 저장 안내의 오타를 수정하고, 패드 설정의 전투 조작 항목을 올바르게 표시하도록 보완했습니다.
 
 ## 주요 수정 내용
 
